@@ -1,0 +1,7 @@
+{
+    "al.testRunner": "AL Test Runner",
+    "al.testRunnerPath": "./path/to/your/test/runner",
+    "al.testFiles": [
+        "**/*Test.al"
+    ]
+}

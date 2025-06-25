@@ -1,0 +1,16 @@
+{
+  "containerResultPath": "",
+  "launchConfigName": "Microsoft cloud sandbox",
+  "securePassword": "",
+  "userName": "",
+  "companyName": "",
+  "testSuiteName": "",
+  "vmUserName": "",
+  "vmSecurePassword": "",
+  "remoteContainerName": "",
+  "dockerHost": "",
+  "newPSSessionOptions": "",
+  "testRunnerServiceUrl": "http://:7047//WS//Codeunit/TestRunner?tenant=default",
+  "codeCoveragePath": ".//.altestrunner//codecoverage.json",
+  "culture": "en-US"
+}
